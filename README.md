@@ -1,6 +1,8 @@
 # ProgBasics2-SI-Week
 Application in Python which I made on second week on Codecool. 
 
+All programs is structural. I've made these in Python3 in july 2019.
+
 List of projects:
 
 1. Algorytm_sort : This add implement insertion_sort function. A program ask user for array of numbers and check if the provide data is a number. On the end program sort the number and display in the console.
